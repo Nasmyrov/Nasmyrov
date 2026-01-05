@@ -1,2 +1,2 @@
 
-*Frissítve Parrot OS terminálbólNasmyrov
+*Frissítve Nasmyrov
