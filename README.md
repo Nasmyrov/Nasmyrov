@@ -1,4 +1,4 @@
-# [A Te Neved]
+# Nasmyrov
 
 30+ év tapasztalat az építőiparban.
 Jelenlegi fókusz: **Python**.
